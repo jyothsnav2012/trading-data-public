@@ -23,3 +23,5 @@ datetime,symbol,entry_price,stop_price,target_price,shares,position_value
 2026-08-25 (reconciled),IIFL.NS,666.25,621.25,733.75,22,14657.5
 2026-08-25 (reconciled),FEDERALBNK.NS,346.95,332.04,369.31,67,23245.65
 2026-08-25 (reconciled),ZFCVINDIA.NS,2603.0,2462.2,2814.21,7,18221.0
+2026-08-26 (reconciled),FEDERALBNK.NS,345.3,331.05,366.68,70,24171.0
+2026-08-26 (reconciled),NETWEB.NS,5271.9,4768.76,6026.61,1,5271.9
