@@ -46,3 +46,6 @@ datetime,symbol,entry_price,stop_price,target_price,shares,position_value
 2026-09-03 (reconciled),CLEAN.NS,852.95,804.37,925.82,20,17059.0
 2026-09-03 (reconciled),RRKABEL.NS,2617.7,2398.6,2946.34,4,10470.8
 2026-09-03 (reconciled),JYOTICNC.NS,1026.85,945.56,1148.78,12,12322.2
+2026-09-04 (reconciled),FLUOROCHEM.NS,4554.0,4238.85,5026.72,3,13662.0
+2026-09-04 (reconciled),BRIGADE.NS,696.1,637.89,783.42,17,11833.7
+2026-09-04 (reconciled),CRISIL.NS,4802.0,4569.58,5150.63,4,19208.0
