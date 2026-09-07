@@ -49,3 +49,5 @@ datetime,symbol,entry_price,stop_price,target_price,shares,position_value
 2026-09-04 (reconciled),FLUOROCHEM.NS,4554.0,4238.85,5026.72,3,13662.0
 2026-09-04 (reconciled),BRIGADE.NS,696.1,637.89,783.42,17,11833.7
 2026-09-04 (reconciled),CRISIL.NS,4802.0,4569.58,5150.63,4,19208.0
+2026-09-07 (reconciled),CARTRADE.NS,3179.9,2929.64,3555.3,3,9539.7
+2026-09-07 (reconciled),PVRINOX.NS,1156.5,1073.3,1281.3,12,13878.0
