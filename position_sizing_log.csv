@@ -53,3 +53,5 @@ datetime,symbol,entry_price,stop_price,target_price,shares,position_value
 2026-09-07 (reconciled),PVRINOX.NS,1156.5,1073.3,1281.3,12,13878.0
 2026-09-08 (reconciled),BEML.NS,2105.6,1974.01,2302.99,7,14739.2
 2026-09-08 (reconciled),IFCI.NS,92.61,81.76,108.88,92,8520.12
+2026-09-10 (reconciled),FINCABLES.NS,1418.4,1300.51,1595.24,8,11347.2
+2026-09-10 (reconciled),SAILIFE.NS,1591.1,1481.01,1756.24,9,14319.9
