@@ -1,3 +1,5 @@
 symbol,entry_date,entry_price,stop_price,target_price,shares,shares_remaining,partial_taken,current_stop
 GRASIM.NS,2026-11-02,3057.1,2927.88,3250.94,7,7,False,2927.88
 NTPC.NS,2026-11-02,323.0,308.05,345.42,66,66,False,308.05
+ASIANPAINT.NS,2026-11-03,2437.8,2320.71,2613.44,8,8,False,2320.71
+BRITANNIA.NS,2026-11-03,4930.0,4710.44,5259.34,4,4,False,4710.44
